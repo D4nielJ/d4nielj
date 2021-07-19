@@ -1,5 +1,4 @@
-## Hello, I'm Daniel J.
-
+## Hello, my name is Daniel
 <p>I’m a full-stack development student who wants to work on projects that matter. I’m also very passionate about aesthetics, branding, and advertising which helps me build outstanding UI and UX.</p>
 
 <p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> 💪</p>
