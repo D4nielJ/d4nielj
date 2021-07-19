@@ -6,7 +6,7 @@
 
 ## My stats
 
-<div style="display:flex;flex-direction:column">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4nielj&show_icons=true&?count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=d4nielj&show_icons=true&?count_private=true?&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nielj&layout=compact&theme=dark" />
 </div>
