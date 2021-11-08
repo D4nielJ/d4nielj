@@ -1,4 +1,4 @@
-[![](./bannerGH.jpg)](https://d4nielj.netlify.app/)
+[![](./bannerGH.jpg)](https://l4nding.netlify.app/)
 
 ## Hello, my name is [Daniel Jaramillo](https://d4nielj.netlify.app/)
 <p>I’m a full-stack development student who wants to work on projects that matter. I’m also very passionate about aesthetics, branding, and advertising which helps me build apps with outstanding UI and UX.</p>
