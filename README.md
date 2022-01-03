@@ -23,8 +23,7 @@
 
 
 ## My stats
-
-[![committers.top badge](https://user-badge.committers.top/colombia/D4nielJ.svg)](https://user-badge.committers.top/colombia/D4nielJ)
+[![committers.top badge](https://user-badge.committers.top/colombia_public/D4nielJ.svg)](https://user-badge.committers.top/colombia_public/D4nielJ)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=D4nielJ&show_icons=true&?count_private=true?&theme=dark" />
