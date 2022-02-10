@@ -2,7 +2,7 @@
 
 ## Hello, my name is [Daniel Jaramillo](https://d4nielj.me/links)
 
-<p>I’m a Web Developer who wants to work on projects that matter. I’m also very passionate about aesthetics, branding, and advertising which helps me build outstanding User Interfaces and Experiences. My list of skills includes JavaScript, React, Ruby on Rails, SQL, and much more.</p>
+<p>I’m a Web Developer who wants to work on projects that matter. I’m also very passionate about aesthetics, branding, and advertising which helps me build outstanding User Interfaces and Experiences.</p>
 
 
 <p>On top of this, my previous degree in Advertising and Graphic Design is of great help to keep my clients on my mind and provide them with an amazing user experience, bringing greater value to the product on development and the overall brand.</p>
